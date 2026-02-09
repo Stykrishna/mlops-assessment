@@ -12,3 +12,7 @@ I created a simple ML pipeline using the Iris dataset. A baseline model (Logisti
 - The Iris dataset is used as a sample real-world classification problem.
 - Accuracy is used as the evaluation metric.
 - No external model registry is used; comparison is done locally.
+
+## Reflection on Coding Assistant
+
+Using a coding assistant helped me complete the task faster, especially for structuring the ML pipeline and implementing the conditional deployment logic. It provided useful suggestions for model selection and evaluation. However, I still needed to review the code to ensure it matched the assessment requirements. The assistant was most helpful in generating boilerplate code and explaining MLOps concepts.
